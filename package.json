@@ -1,0 +1,23 @@
+{
+  "name": "cyberpet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grovrac09/cyberPet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grovrac09/cyberPet/issues"
+  },
+  "homepage": "https://github.com/grovrac09/cyberPet#readme"
+}
